@@ -5,5 +5,6 @@ Download FasterNet weights: https://pan.baidu.com/s/14J0PB2SpREjc1AAnL9hnNA?pwd=
 
 Download 38-cloude weights: https://pan.baidu.com/s/1p_mlt1QTXEdb11RXvLwcFA?pwd=x6vb (code: x6vb), and put them in './checkpoints/'
 
-Download MODIS weights: https://pan.baidu.com/s/1p_mlt1QTXEdb11RXvLwcFA?pwd=x6vb (code: x6vb), and put them in './checkpoints/'
+Download MODIS weights: https://pan.baidu.com/s/1iXenbMuZ_uw6LjZ5R8iMKA?pwd=51c2 (code: 51c2), and put them in './checkpoints/'
+
 
